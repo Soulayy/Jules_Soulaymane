@@ -31,7 +31,7 @@ body {
     background-image: url(./../../MolenStars/MolenStars/Assets/images/banner-overlay-img.png);
     background-size: cover;
     background-color: black;
-       background-repeat: no-repeat; 
+    background-repeat: no-repeat; 
 }
 
 .section1 {
@@ -93,3 +93,5 @@ body {
 }
 
 
+    background-color: black;    
+}
