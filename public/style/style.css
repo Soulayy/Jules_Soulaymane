@@ -2,5 +2,7 @@ body {
     padding: 0%;
     margin: 0%;
     width: 100vw;
-    
+    background-image: url(./../../MolenStars/MolenStars/Assets/images/banner-overlay-img.png);
+    background-size: cover;
+    background-color: black;    
 }
